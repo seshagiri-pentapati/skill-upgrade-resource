@@ -1,0 +1,237 @@
+Job-Search
+[1] Wellfound (https://wellfound.com)
+[2] Toptal (toptal.com)
+[3] AngelList (angel.co)
+[4] Pangian (pangian.com)
+[5] Remote co (remote.co)
+[6] Remotive (remotive.com)
+[7] RemoteOK (remoteok.com)
+[8] Remotees (remotees.com)
+[9] FlexJobs (flexjobs.com)
+[10] Linkedin (linkedin.com)
+[11] Remote4Me (remote4me.com)
+[12] Jobspresso (jobspresso.co)
+[13] Jobspresso (jobspresso.co)
+[14] Freelancer (freelancer.com)
+[15] Outsourcely (outsourcely.com)
+[16] SimplyHired (simplyhired.com)
+[17] Outsourcely (outsourcely.com)
+[18] SimplyHired (simplyhired.com)
+[19] RemoteHabits (remotehabits.com)
+[20] NoDesk (nodesk.co)
+[21] Skip The Drive (skipthechive.com)
+[22] Working Nomads (workingnomads.com)
+[23] Europe Remotely (europeremotely.com)
+[24] We Work Remotely (weworkremotely.com)
+[25] Remote freelance (remotefreelance.com)
+[26] Stack Overflow Jobs (stackoverflow.com)
+[27] Virtual Vocations, Inc. (virtualvocations.com)
+[28] Remote OK Europe (https://remoteineurope.com)
+[29] Remote of Asia (https://lnkd.in/gsiX9_Zq)
+[30] Remote rocketship (https://lnkd.in/gss3R6gk)
+
+
+📜 12 Best Websites for Creating ATS Resume:
+
+[1] Overleaf - Overleaf.com
+[2] Canva - canva.com
+[3] Resume.io - resume.io
+[4] Enhancv - enhancv.com
+[5] SlashCV - slashcv.com
+[6] Resume.com - resume.com
+[7] VisualCV - visualcv.com
+[8] Kickresume - kickresume.com
+[9] Novorésumé - novoresume.com
+[10] Resume Genius - resumegenius.com
+[11] My Perfect Resume - myperfectresume.com
+[12] Zety - zety.com
+
+
+
+🧑‍💻10 Websites to Help You Ace Interviews at Your Dream Company:
+
+[1] The Muse - themuse.com
+[2] CareerCup - careercup.com
+[3] Glassdoor - glassdoor.com
+[4] PrepLounge - preplounge.com
+[5] InterviewBit - interviewbit.com
+[6] Big Interview - biginterview.com
+[7] Interviewing.io - interviewing.io
+[8] Jobscan Interview Prep - jobscan.co/interview
+[9] Indeed Interview Tips - indeed.com/career-advice
+[10] LinkedIn for Learning - linkedin.com/learning 
+
+
+💻𝐅𝐫𝐞𝐞 𝐎𝐧𝐥𝐢𝐧𝐞 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧:
+
+[1]. Coursera - coursera.org
+[2]. Udemy - udemy.com
+[3]. Khan Academy - khanacademy.org
+[4]. edX - edx.org
+[5]. Codecademy - codecademy.com
+[6]. MIT OpenCourseWare - ocw.mit.edu
+[7]. Stanford University Online - online.stanford.edu
+[8]. OpenLearn - open.edu
+[9]. Great Learning - mygreatlearning.com
+[10]. Google Digital Garage - https://lnkd.in/gBHd_5SZ
+
+
+
+[A] Arrays & Strings
+
+1. https://lnkd.in/gmWfX9Vz
+2. https://lnkd.in/gnqMRQ2r
+3. https://lnkd.in/gVxBpbTh
+4. https://lnkd.in/gMqb8XuK
+5. https://lnkd.in/gcbdhhW9
+6. https://lnkd.in/g2jXrW3J
+7. https://lnkd.in/g9Gr9tcZ
+8. https://lnkd.in/gsgdaT-n
+9. https://lnkd.in/g5vdCXfg
+10. https://lnkd.in/gMcB5y7D
+11. https://lnkd.in/gjd6tS6i
+12. https://lnkd.in/gGhVFmTc
+13. https://lnkd.in/gQtbqc_8
+
+[B] Hashmaps
+
+14. https://lnkd.in/gJUBiHWK
+15. https://lnkd.in/g2jXrW3J
+16. https://lnkd.in/gkfw3yar
+17. https://lnkd.in/gMp8u7RJ
+18. https://lnkd.in/g6ecVurN
+
+[C] Binary Search
+
+19. https://lnkd.in/g5iv2Zfq
+20. https://lnkd.in/gpMUJ9SM
+21. https://lnkd.in/gnNQhd_s
+22. https://lnkd.in/g5E-uGur
+23. https://lnkd.in/ghXZ4FTC
+
+[D] Sliding Window
+
+24. https://lnkd.in/g5bu4tRq
+25. https://lnkd.in/gfqxyVqQ
+26. https://lnkd.in/gA8BnGGK
+27. https://lnkd.in/gheeRWcC
+28. https://lnkd.in/gpYcRbts
+
+[E] Trees
+
+29. https://lnkd.in/gy3HYXk8
+30. https://lnkd.in/g-WcmN6P
+31. https://lnkd.in/gzypwX8V
+32. https://lnkd.in/gTV9m9t4
+33. https://lnkd.in/gBtVCWQ7
+34. https://lnkd.in/gNmssiBx
+
+[F] Recursion & Backtracking
+
+35. https://lnkd.in/gxc22Bxi
+36. https://lnkd.in/g3qmFq9Q
+37. https://lnkd.in/gvwJj6Nf
+38. https://lnkd.in/gg9Sys2b
+39. https://lnkd.in/g4Phq8Y4
+
+
+
+
+
+-> Code snippet(50+)
+
+🌲 React/Machine coding (around 60-120min)
+
+👉 Introduction JSX
+👉 React Component
+👉 Component State and Props
+👉 Adding Style (CSS)
+👉 Functional and Class components
+👉 React Lifecycle Methods
+👉 Virtual DOM
+👉 React Hooks
+👉 Custom Hooks
+👉 Context API
+👉 Synthetic Events
+👉 Routing
+👉 Data Flow (Redux/Flux)
+👉 Server-Side Rendering
+👉 Unit Testing
+👉 Jest & React Testing library
+👉 Mocking Data
+👉 Understanding Webpack (Bundler)
+👉 Babel, env, prettier, linter
+
+Machine coding
+💁‍♂️ Star Rating
+💁‍♂️ File-folder
+💁‍♂️ Google-calendar
+💁‍♂️ InteractiveDiagonalGrid
+💁‍♂️ NestedCheckbox
+💁‍♂️ Tabs
+💁‍♂️ Todo-list
+💁‍♂️ TypeAhead
+💁‍♂️ WhatsappChat
+💁‍♂️ Infinite scroll with virtulization
+💁‍♂️ tic tac toe
+
+DSA 
+Focus on a few patterns like
+- Array 
+- string
+- LinkedIn list
+- tree
+
+
+
+Coding Interview Patterns:-
+𝟭) 𝗧𝘄𝗼 𝗣𝗼𝗶𝗻𝘁𝗲𝗿𝘀
+
+𝟮) 𝗣𝗿𝗲𝗳𝗶𝘅 𝗦𝘂𝗺𝘀
+
+𝟯) 𝗦𝗹𝗶𝗱𝗶𝗻𝗴 𝗪𝗶𝗻𝗱𝗼𝘄
+
+𝟰) 𝗞𝗮𝗱𝗮𝗻𝗲’𝘀 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺
+
+𝟱) 𝗙𝗶𝗻𝗱 𝗻𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝘀𝘂𝗯𝗮𝗿𝗿𝗮𝘆𝘀
+
+𝟲) 𝗙𝗮𝘀𝘁 𝗮𝗻𝗱 𝗦𝗹𝗼𝘄 𝗣𝗼𝗶𝗻𝘁𝗲𝗿𝘀
+
+𝟳) 𝗗𝗲𝗽𝘁𝗵-𝗙𝗶𝗿𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵
+
+𝟴) 𝗕𝗿𝗲𝗮𝗱𝘁𝗵-𝗙𝗶𝗿𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵
+
+𝟵) 𝗠𝗮𝘁𝗿𝗶𝘅 𝗧𝗿𝗮𝘃𝗲𝗿𝘀𝗮𝗹
+
+𝟭𝟬) 𝗔𝗱𝗷𝗮𝗰𝗲𝗻𝗰𝘆 𝗟𝗶𝘀𝘁 𝗕𝗙𝗦 / 𝗗𝗙𝗦
+
+𝟭𝟭) 𝗧𝘄𝗼 𝗛𝗲𝗮𝗽𝘀
+
+𝟭𝟮) 𝗕𝗶𝗻𝗮𝗿𝘆 𝗦𝗲𝗮𝗿𝗰𝗵 (𝗠𝗼𝗱𝗶𝗳𝗶𝗲𝗱)
+
+𝟭𝟯) 𝗧𝗼𝗽𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗦𝗼𝗿𝘁
+
+𝟭𝟰) 𝗧𝗼𝗽 𝗞
+
+𝟭𝟱) 𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁 𝗥𝗲𝘃𝗲𝗿𝘀𝗮𝗹
+
+𝟭𝟲) 𝗣𝗲𝗿𝗺𝘂𝘁𝗮𝘁𝗶𝗼𝗻𝘀
+
+𝟭𝟳) 𝗖𝗼𝗺𝗯𝗶𝗻𝗮𝘁𝗶𝗼𝗻𝘀
+
+𝟭𝟴) 𝗧𝗿𝗲𝗲 𝗠𝗮𝘇𝗲 (𝗕𝗮𝗰𝗸𝘁𝗿𝗮𝗰𝗸𝗶𝗻𝗴)
+
+𝟭𝟵) 𝗟𝗼𝗻𝗴𝗲𝘀𝘁 𝗖𝗼𝗺𝗺𝗼𝗻 𝗦𝘂𝗯𝘀𝗲𝗾𝘂𝗲𝗻𝗰𝗲
+
+𝟮𝟬) 𝗠𝗼𝗻𝗼𝘁𝗼𝗻𝗶𝗰 𝗦𝘁𝗮𝗰𝗸
+
+𝟮𝟭) 𝗠𝗲𝗺𝗼𝗶𝘇𝗮𝘁𝗶𝗼𝗻
+
+𝟮𝟮) 𝗧𝗮𝗯𝘂𝗹𝗮𝘁𝗶𝗼𝗻
+
+𝟮𝟯) 𝗠𝘂𝗹𝘁𝗶-𝗦𝗼𝘂𝗿𝗰𝗲 𝗕𝗙𝗦
+
+𝟮𝟰) 𝗠𝗲𝗿𝗴𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗮𝗹𝘀
+
+
+.
